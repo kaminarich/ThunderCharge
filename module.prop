@@ -1,0 +1,6 @@
+id=thundercharge
+name=Thunder Charge Auto
+version=4.0
+versionCode=4
+author=kaminarich
+description=Force 3A Charging Current Limit | Auto find path | check data/local/tmp/thundercharge.log
